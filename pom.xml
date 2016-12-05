@@ -58,5 +58,5 @@
       </build>
     </profile>
   </profiles>
-	<artifactId>InsultApp</artifactId>
+  <artifactId>InsultApp</artifactId>
 </project>
