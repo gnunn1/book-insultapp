@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.openshift</groupId>
+    <artifactId>InsultApp</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
     <name>InsultApp</name>
@@ -58,5 +59,4 @@
       </build>
     </profile>
   </profiles>
-  <artifactId>InsultApp</artifactId>
 </project>
