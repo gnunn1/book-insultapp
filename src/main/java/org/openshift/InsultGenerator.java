@@ -18,6 +18,7 @@ public class InsultGenerator {
 	}
 	*/
 
+<<<<<<< HEAD
 	public String generateInsult() {
 		String vowels = "AEIOU";
 		String article = "an";
@@ -49,4 +50,6 @@ public class InsultGenerator {
 		}
 		return theInsult;
 	}
+=======
+>>>>>>> parent of 9650884... stage final changes
 }
