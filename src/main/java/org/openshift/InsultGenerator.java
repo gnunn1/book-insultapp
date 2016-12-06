@@ -2,14 +2,13 @@ package org.openshift;
 
 import java.util.Random;
 
-/*
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
-*/
 
 public class InsultGenerator {
+	/*
 	public String generateInsult() {
 		String words[][] = {{"Artless", "Bawdy", "Beslubbering"}, {"Base-court", "Bat-fowling", "Beef-witted"}, {"Apple-john", "Baggage", "Barnacle"}};
 		String vowels = "AEIOU";
@@ -22,8 +21,8 @@ public class InsultGenerator {
 		}
 		return String.format("Thou art %s %s %s %s!", article, firstAdjective, secondAdjective, noun);
 	}
-
-	/*
+	*/
+	
 	public String generateInsult() {
 		String vowels = "AEIOU";
 		String article = "an";
@@ -54,5 +53,5 @@ public class InsultGenerator {
 		}
 		return theInsult;
 	}
-	*/
+	
 }
